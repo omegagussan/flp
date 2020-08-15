@@ -1,0 +1,9 @@
+-e ../fpl_api
+aiohttp==3.6.2
+cchardet
+aiodns
+aiohttp[speedups]
+
+pandas
+
+notebook
