@@ -5,5 +5,7 @@ aiodns
 aiohttp[speedups]
 
 pandas
+python-constraint
 
 notebook
+qgrid
